@@ -1,5 +1,3 @@
-
-![logo](https://github.com/student-vG/student-vG/blob/main/github%20banner.gif)
 <h1 align="center" >Hi 👋, I'm  Vikram G</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <p>I 𝙸 𝚠𝚒𝚕𝚕 𝚠𝚒𝚗 𝚗𝚘𝚝 𝚒𝚖𝚖𝚎𝚍𝚒𝚊𝚝𝚎𝚕𝚢 𝚋𝚞𝚝 𝚍𝚎𝚏𝚒𝚗𝚒𝚝𝚎𝚕𝚢 💯 💯🤓 </p>
