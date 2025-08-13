@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [my personal portfolio](https://student-vg.github.io/Vg_Portfolio/)
 
-- 🌱 I’m currently learning **BCA**
+- 🌱 I’m Graduate **BCA**
 
 - 👨‍💻 All of my projects are available at [https://student-vg.github.io/Vg_Portfolio/](https://student-vg.github.io/Vg_Portfolio/)
 
