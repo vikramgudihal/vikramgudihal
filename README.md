@@ -6,12 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=student-vg&label=Profile%20views&color=0e75b6&style=flat" alt="student-vg" /> </p>
 
-- 🔭 I’m currently working on [my personal portfolio](https://student-vg.github.io/Vg_Portfolio/)
-
-- 🌱 I’m Graduate **BCA**
-
-- 👨‍💻 All of my projects are available at [https://student-vg.github.io/Vg_Portfolio/](https://student-vg.github.io/Vg_Portfolio/)
-
 - 📫 How to reach me **gudiahlvikram@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
