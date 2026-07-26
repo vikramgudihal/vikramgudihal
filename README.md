@@ -4,8 +4,6 @@
 
 <div align="center">
 
-<img src="https://profile-counter.glitch.me/vikramgudihal/count.svg" alt="Profile views" />
-
 </div>
 
 <br/>
