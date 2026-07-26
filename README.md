@@ -14,7 +14,7 @@
 
 # Hi there! 👋 I'm
 
-# Vikram **Kulkarni**
+# Vikram **Gudihal**
 
 `MCA Student` • `Full Stack Developer` • `Problem Solver`
 
