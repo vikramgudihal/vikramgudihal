@@ -32,9 +32,9 @@ Passionate about building efficient, scalable and user-friendly web applications
 [![Email](https://img.shields.io/badge/✉️_Email-1A1A2E?style=for-the-badge&logoColor=white)](mailto:vikramgudihal@gmail.com)
 
 </td>
-<td width="40%" align="center">
+<td width="20%" align="center" >
 
-<img src="./vikram.jpg" width="200" style="border-radius:50% !important;" />
+  <img src="./vikram.jpg" />
 
 <br/><br/>
 
