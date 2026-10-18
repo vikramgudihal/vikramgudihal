@@ -3,6 +3,7 @@
 -->
 
 <div align="center">
+<img style="max-width:100%; height:auto;" alt="Black Minimalist Linkedin Banner" src="https://github.com/user-attachments/assets/7c27c1ab-1134-4774-a1b8-97f9397ed7b1" />
 
 </div>
 
